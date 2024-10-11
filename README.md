@@ -80,8 +80,8 @@ This project is a Python-based GUI application designed to manage and analyze th
 
 ## Demo Videos
 
-- Part 1: [Watch the Demo](path_to_video_part1)
-- Part 2: [Watch the Demo](path_to_video_part2)
+- Part 1: [Watch the Demo](https://www.loom.com/share/f36681b5c1594a61adb17a0262220df9?sid=f3c9ebfd-491a-44c5-95e3-3ea723ba3a32)
+- Part 2: [Watch the Demo](https://www.loom.com/share/89562758c65444c38c62ef90af6cae85?sid=a9a11801-e3e8-4387-af1c-8aceae63851d)
 
 ## Contributors
 
